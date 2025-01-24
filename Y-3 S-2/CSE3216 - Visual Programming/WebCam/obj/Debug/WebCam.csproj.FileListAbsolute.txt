@@ -1,0 +1,16 @@
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\WebCam.exe.config
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\WebCam.exe
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\WebCam.pdb
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\AForge.dll
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\AForge.Video.dll
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\AForge.xml
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\AForge.Video.xml
+D:\3_2\CSE3216\New folder\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.csproj.Up2Date
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.exe
+D:\3_2\CSE3216\New folder\WebCam\obj\Debug\WebCam.pdb

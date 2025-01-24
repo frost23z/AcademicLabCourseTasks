@@ -1,0 +1,10 @@
+D:\3_2\CSE3216\New folder\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+D:\3_2\CSE3216\New folder\TaxCalculator\bin\Debug\TaxCalculator.exe
+D:\3_2\CSE3216\New folder\TaxCalculator\bin\Debug\TaxCalculator.pdb
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.csproj.AssemblyReference.cache
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.Form1.resources
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.exe
+D:\3_2\CSE3216\New folder\TaxCalculator\obj\Debug\TaxCalculator.pdb
